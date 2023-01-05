@@ -1,6 +1,4 @@
-# GALAPGAOS REPUBLIC 
-
-## [GalapagosRepublic.com](GalapagosRepublic.com)
+# [GalapagosRepublic.com](GalapagosRepublic.com)
 
 Designed in WordPress and then exported as static files into GitHub.
 * Wordpress can be downloaded to your localhost using Local or Kinsta. 
